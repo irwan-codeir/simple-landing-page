@@ -1,0 +1,9 @@
+1. buka akun github orng lain
+2. cari repo yg akan di fork
+3. clone hasil repo yg sudah di fork ke akun github kita
+4. buka git base
+5. ketik git clone paste link hasil clone y
+6. cek dgn git remote -v
+7. tambahkan remote baru dengan ketik git remote add namaRemote alamat akun yg di fork
+8. cek git remote -v
+9. ketik git fetch sandhikagalih
